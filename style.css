@@ -1,0 +1,12 @@
+body{
+    background-color: aliceblue;
+}
+
+nav{
+    display: flex;
+}
+
+a{
+    background-color: chocolate;
+    padding: 10px;
+}
